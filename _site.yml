@@ -2,13 +2,11 @@ name: "Sonya Zhu"
 output_dir: "."
 navbar:
   title: "Personal website"
-  left:
-    - text: "Writing"
+  left: 
+    - text: "Research"
       href: research.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
-      href: software.html
+    - text: "About me"
+      href: aboutme.html
     - text: "Teaching"
       href: teaching.html
   right:
