@@ -6,6 +6,6 @@
 
 <img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Welcomd to my website! I am a PhD candidate at the Finance Department of Stockholm School of Economics. My main research interest is empricial asset pricing and market microstructure, with a spcial focus on the market inefficiency due to investors' inattention and information frictions.  
+Welcomd to my website! I am a PhD candidate at the Finance Department of Stockholm School of Economics. My main research interest is empricial asset pricing and market microstructure, with a special focus on the market inefficiency due to investors' inattention and information frictions.  
 
 My full CV is available [here](files/Zabor_CV_2017_Q4.pdf).
