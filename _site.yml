@@ -20,5 +20,5 @@ navbar:
       href: https://www.linkedin.com/in/emily-zabor-59b902b7/
 output:
   html_document:
-    theme: default
+    theme: flatly
     css: 'styles.css'
